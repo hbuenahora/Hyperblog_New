@@ -1,3 +1,4 @@
 Esta es una prueba
 del curso de git y github
+y la duracion es de dos dias
 Espero terminar a tiempo
